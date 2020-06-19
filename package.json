@@ -1,0 +1,26 @@
+{
+  "name": "npm-introduction",
+  "version": "1.0.0",
+  "description": "Introduction to node package manager. Command init.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thementor-exercises/exercise-2.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "package",
+    "manager"
+  ],
+  "author": "Bartłomiej Górowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thementor-exercises/exercise-2/issues"
+  },
+  "homepage": "https://github.com/thementor-exercises/exercise-2#readme"
+}

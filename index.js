@@ -1,0 +1,1 @@
+console.log("NodeJS is working. Solving 2 + 2 = ", 2 + 2);
